@@ -79,9 +79,9 @@ vite-env.d.ts
 ### Building for Production
 To build the project for production, run:
 
-    ```sh
+    
     npm run build
-    ```
+    
 
 ### License
 This project is licensed under the MIT License.
