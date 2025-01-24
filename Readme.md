@@ -60,7 +60,7 @@ vite-env.d.ts
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/Himanshu151281/QuadB_T.git
    cd QuadB_T
    ```
 
@@ -74,7 +74,7 @@ vite-env.d.ts
     npm run dev
     ```
 
-4. Open your browser and navigate to http://localhost:3000
+4. Open your browser and navigate to http://localhost:5173
 
 ### Building for Production
 To build the project for production, run:
